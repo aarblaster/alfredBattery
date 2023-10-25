@@ -1,6 +1,6 @@
 # Battery Level
 
-A basic battery checking workflow for Alfred.
+A basic workflow for Alfred to check your battery level.
 
 ## About
 
@@ -11,8 +11,6 @@ This workflow is deliberately simple as all I wanted was an easy way to quick ch
 
 
 ## Made By
-Copyright Anthony Arblaster 2023
-	web: (https://codebyanthony.com)
-	github: (https://github.com/aarblaster)
-
-MIT Licence
+Anthony Arblaster
+web: (https://codebyanthony.com)
+github: (https://github.com/aarblaster)
