@@ -4,7 +4,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/aarblaster/alfredBattery/total.svg)
 ![GitHub](https://img.shields.io/github/license/aarblaster/alfredBattery.svg)
 
-A basic workflow for Alfred to check your battery level.
+A basic workflow for [Alfred](https://www.alfredapp.com) to check your battery level, and report it in a notification
 
 ## About
 
@@ -21,7 +21,7 @@ MacOS Sonoma 14.0 (23A344)
 
 ## Installation
 - From the [Releases](https://github.com/aarblaster/alfredBattery/releases) page download the alfredBattery.alfredworkflow file.
-- Follow the instructions [here](https://www.alfredapp.com/help/workflows/)
+- Follow the instructions [here](https://www.alfredapp.com/help/workflows/) to install in Alfred.
 
 ## Usage
 Simply type `bbl` in your Alfred toolbar to see the current battery level in a notification.  
