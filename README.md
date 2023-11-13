@@ -2,7 +2,6 @@
 
 ![GitHub release](https://img.shields.io/github/release/aarblaster/alfredBattery.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/aarblaster/alfredBattery/total.svg)
-![GitHub](https://img.shields.io/github/license/aarblaster/alfredBattery.svg)
 
 A basic workflow for [Alfred](https://www.alfredapp.com) to check your battery level, and report it in a notification
 
@@ -32,7 +31,7 @@ If you have ideas or contributions I'm very interested. I'm really new to coding
 If you encounter a problem you can raise and issue using the issue tab on Github.
 
 ## Licence 
-This project uses: ![GitHub](https://img.shields.io/github/license/aarblaster/alfredBattery.svg)   
+This project uses: MIT Licence.  
 The licence is designed to allow you to edit, change and use the software fairly permissively.
 
 ## Say Hello
