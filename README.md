@@ -2,7 +2,7 @@
 
 ![GitHub release](https://img.shields.io/github/release/aarblaster/alfredBattery.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/aarblaster/alfredBattery/total.svg)
-
+![GitHub](https://img.shields.io/github/license/aarblaster/alfredBattery.svg)
 
 A basic workflow for [Alfred](https://www.alfredapp.com) to check your battery level, and report it in a notification
 
