@@ -28,12 +28,15 @@ Simply type `bbl` in your Alfred toolbar to see the current battery level in a n
 You can modify the default keyword from the `Configure` menu.
 
 ## Contributions
-If you have ideas or contributions I'm very interested. I'm really new to coding and making it up as I go, so suggestions are welcome.   
-If you encounter a problem you can raise and issue using the issue tab on Github.
+Would love your contributions, particularly:
+- help making the results appear in Alfred.
+- Ideas to add features without adding too much complexity.
 
 ## Licence 
 This project uses: MIT Licence.  
-The licence is designed to allow you to edit, change and use the software fairly permissively.
 
 ## Say Hello
- If you find this workflow useful let me know.
+ If you find this workflow useful let me know. 👍
+
+## Created By
+Created by [Anthony Arblaster](https://github.com/aarblaster)
