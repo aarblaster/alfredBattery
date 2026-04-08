@@ -1,0 +1,4 @@
+# .gitignore for alfredBattery
+
+# MacOS
+.DS_Store
